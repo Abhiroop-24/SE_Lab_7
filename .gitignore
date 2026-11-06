@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.hypothesis/
+assigned_repo/
+gym_membership_buggy.py
+create_screenshots.py
+generate_pdf.py
